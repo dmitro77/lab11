@@ -1,0 +1,6 @@
+Question ID,Question Text,Answer Type,Options
+1,What is your age?,Open-ended,
+2,How satisfied are you with our service?,Rating Scale,1-5
+3,Which of the following products have you purchased?,Multiple Choice,Product A|Product B|Product C|Product D
+4,What is your preferred method of communication?,Single Choice,Email|Phone|Text|In-person
+5,Please provide any additional feedback,Open-ended,
